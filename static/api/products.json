@@ -1,0 +1,62 @@
+[
+	{
+		"id": 1,
+		"count": 1,
+		"name": "coca-cola"
+	},
+	{
+		"id": 2,
+		"count": 5,
+		"name": "fanta"
+	},
+	{
+		"id": 3,
+		"count": 3,
+		"name": "fresca"
+	},
+	{
+		"id": 4,
+		"count": 2,
+		"name": "tropical"
+	},
+	{
+		"id": 5,
+		"count": 1,
+		"name": "dr.pepper"
+	},
+	{
+		"id": 6,
+		"count": 2,
+		"name": "mirinda"
+	},
+	{
+		"id": 7,
+		"count": 1,
+		"name": "pilsner"
+	},
+	{
+		"id": 8,
+		"count": 2,
+		"name": "bravha"
+	},
+	{
+		"id": 9,
+		"count": 1,
+		"name": "corona"
+	},
+	{
+		"id": 10,
+		"count": 1,
+		"name": "kitkat"
+	},
+	{
+		"id": 11,
+		"count": 1,
+		"name": "nestle"
+	},
+	{
+		"id": 12,
+		"count": 1,
+		"name": "Hamburger"
+	}
+]
